@@ -108,7 +108,7 @@ def segment_analysis_and_visualization(dataframe, segment_col, summary_args):
 df = pd.read_excel("dataset\online_retail_II-230817-120704.xlsx", sheet_name="Year 2009-2010")
 # check_data(df)
 
-#If Invoice code starts with 'C' it means If this code starts with, the operation has been canceled
+#If Invoice code starts with 'C' it means the operation has been canceled
 df = df[~df["Invoice"].str.contains("C", na=False)]
 
 df = df[df["Quantity"] > 0]
