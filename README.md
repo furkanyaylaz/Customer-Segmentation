@@ -19,11 +19,11 @@ Monetary:
 It reflects the overall monetary value that a customer contributes to the business.
 Customers with higher monetary value are typically more valuable to the business.
 RFM analysis involves segmenting customers based on these three metrics to optimize marketing strategies. For example, you might offer special promotions to customers in the "High Frequency and High Monetary Value" segment or target efforts to re-engage customers in the "Low Recency and Low Frequency" segment. This way, marketing efforts become more personalized and effective.
-
-
-
-
-
+- - -
+- - -
+- - -
+- - -
+- - -
 
 (Turkish)
 
