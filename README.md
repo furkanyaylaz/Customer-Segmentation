@@ -25,7 +25,7 @@ RFM analysis involves segmenting customers based on these three metrics to optim
 - - -
 - - -
 
-(Turkish)
+Türkçe (Turkish)
 
 RFM, müşteri segmentasyonunda kullanılan etkili bir analiz yöntemidir. "Recency," "Frequency," ve "Monetary" kelimelerinin baş harflerinden oluşur. Bu üç metrik, müşteri davranışlarını ve değerlerini anlamak için kullanılır.
 
